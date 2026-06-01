@@ -19,8 +19,14 @@
         <mxCell id="HniiPav5OBrcQ8Vw-R5A-8" value="打包发送至&lt;div&gt;企业微信&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="940" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HniiPav5OBrcQ8Vw-R5A-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HniiPav5OBrcQ8Vw-R5A-10" target="HniiPav5OBrcQ8Vw-R5A-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HniiPav5OBrcQ8Vw-R5A-10" value="是否为&lt;div&gt;交付问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HniiPav5OBrcQ8Vw-R5A-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HniiPav5OBrcQ8Vw-R5A-12" target="HniiPav5OBrcQ8Vw-R5A-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HniiPav5OBrcQ8Vw-R5A-12" value="检查原始&lt;div&gt;数据文档&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="735" width="100" height="30" as="geometry" />
