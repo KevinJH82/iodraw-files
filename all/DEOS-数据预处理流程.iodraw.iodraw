@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HniiPav5OBrcQ8Vw-R5A-2" value="交付规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="700" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="610" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HniiPav5OBrcQ8Vw-R5A-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="620" width="100" height="30" as="geometry" />
+        <mxCell id="HniiPav5OBrcQ8Vw-R5A-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="675" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
