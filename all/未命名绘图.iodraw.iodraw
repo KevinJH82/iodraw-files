@@ -106,7 +106,7 @@
             <mxPoint x="510" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-25" value="校正结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-25" value="获取影像数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="500" y="420" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
