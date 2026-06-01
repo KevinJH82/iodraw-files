@@ -28,6 +28,9 @@
         <mxCell id="HniiPav5OBrcQ8Vw-R5A-14" value="重新执行&lt;div&gt;下载流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="990" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HniiPav5OBrcQ8Vw-R5A-15" value="重新执行&lt;div&gt;下载流程&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1000" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
