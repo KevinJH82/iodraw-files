@@ -19,6 +19,9 @@
         <mxCell id="fW3JnOZTECXaUUF_HCQu-5" value="输入原始影像数据路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-6" value="扫描可用遥感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="70" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
