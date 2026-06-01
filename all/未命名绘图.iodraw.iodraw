@@ -145,23 +145,23 @@
             <mxPoint x="376" y="406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-34" value="获取影像数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="60" height="20" as="geometry" />
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-34" value="获取影像数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="165" y="510" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-35" value="干扰识别模式选择&lt;div&gt;（云层、植被、水体）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="60" height="20" as="geometry" />
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-35" value="干扰识别模式选择&lt;div&gt;（云层、植被、水体）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="235" y="510" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-36" value="NDVI植被阈值设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="60" height="20" as="geometry" />
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-36" value="NDVI植被阈值设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="305" y="510" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-37" value="掩膜敏感度设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="330" y="520" width="60" height="20" as="geometry" />
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-37" value="掩膜敏感度设置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="375" y="510" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-38" value="启动干扰识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="410" y="520" width="60" height="20" as="geometry" />
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-38" value="启动干扰识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="455" y="510" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-39" value="掩膜结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="490" y="520" width="60" height="20" as="geometry" />
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-39" value="掩膜结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="535" y="510" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
