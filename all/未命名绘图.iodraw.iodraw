@@ -22,8 +22,11 @@
         <mxCell id="fW3JnOZTECXaUUF_HCQu-6" value="扫描可用遥感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="130" y="300" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-7" value="扫描可用遥感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-7" value="选择校正方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-8" value="选择校正方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
