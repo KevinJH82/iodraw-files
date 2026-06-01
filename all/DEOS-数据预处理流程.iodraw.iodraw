@@ -10,6 +10,9 @@
         <mxCell id="HniiPav5OBrcQ8Vw-R5A-6" value="文档是&lt;div&gt;否完整&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="710" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HniiPav5OBrcQ8Vw-R5A-7" value="交付规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
