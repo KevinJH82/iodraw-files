@@ -19,7 +19,7 @@
         <mxCell id="HniiPav5OBrcQ8Vw-R5A-10" value="是否为&lt;div&gt;交付问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HniiPav5OBrcQ8Vw-R5A-11" value="文档是&lt;div&gt;否完整&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HniiPav5OBrcQ8Vw-R5A-11" value="是否为&lt;div&gt;下载问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
