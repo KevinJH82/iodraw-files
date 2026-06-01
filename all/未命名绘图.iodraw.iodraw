@@ -10,40 +10,40 @@
         <mxCell id="fW3JnOZTECXaUUF_HCQu-2" value="大气矫正" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-3" value="几何校正" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-3" value="几何校正" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fW3JnOZTECXaUUF_HCQu-4" value="干扰剔除" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="371" y="630" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-5" value="输入原始影像数据路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-5" value="输入原始影像数据路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="50" y="300" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-6" value="扫描可用遥感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-6" value="扫描可用遥感器数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="130" y="300" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-7" value="选择校正方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-7" value="选择校正方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-8" value="DOS&lt;div&gt;（暗目标消减）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-8" value="DOS&lt;div&gt;（暗目标消减）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-9" value="Simple&lt;div&gt;（简化模型）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-9" value="Simple&lt;div&gt;（简化模型）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-10" value="太阳天顶角&lt;div&gt;（度）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-10" value="太阳天顶角&lt;div&gt;（度）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-11" value="太阳天顶角&lt;div&gt;（度）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-11" value="太阳天顶角&lt;div&gt;（度）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-12" value="气溶胶类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-12" value="气溶胶类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-13" value="开始大气校正" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-13" value="开始大气校正" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-14" value="校正结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-14" value="校正结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fW3JnOZTECXaUUF_HCQu-15" value="" style="endArrow=openThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;endFill=0;startSize=6;endSize=4;" edge="1" parent="1" source="fW3JnOZTECXaUUF_HCQu-5" target="fW3JnOZTECXaUUF_HCQu-6">
@@ -106,16 +106,16 @@
             <mxPoint x="510" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-25" value="获取影像数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-25" value="获取影像数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="456" y="386" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-26" value="选择重采样算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-26" value="选择重采样算法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="376" y="386" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-27" value="开始几何校正" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-27" value="开始几何校正" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="306" y="386" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-28" value="校正结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-28" value="校正结果输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="226" y="386" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fW3JnOZTECXaUUF_HCQu-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=openThin;html=1;curved=0;rounded=0;endSize=4;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;strokeWidth=1;" edge="1" parent="1" source="fW3JnOZTECXaUUF_HCQu-14" target="fW3JnOZTECXaUUF_HCQu-25">
