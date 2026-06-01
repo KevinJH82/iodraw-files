@@ -16,8 +16,8 @@
         <mxCell id="fW3JnOZTECXaUUF_HCQu-4" value="干扰剔除" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-5" value="输入原始影像数据路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="370" width="150" height="20" as="geometry" />
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-5" value="输入原始影像数据路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
