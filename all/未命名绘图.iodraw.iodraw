@@ -40,7 +40,7 @@
         <mxCell id="fW3JnOZTECXaUUF_HCQu-12" value="气溶胶类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fW3JnOZTECXaUUF_HCQu-13" value="气溶胶类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-13" value="开始大气校正" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
