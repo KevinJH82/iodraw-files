@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="240" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fW3JnOZTECXaUUF_HCQu-3" value="几何校正" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="344" y="350" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="390" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fW3JnOZTECXaUUF_HCQu-4" value="干扰剔除" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="70" height="20" as="geometry" />
@@ -26,7 +26,10 @@
           <mxGeometry x="200" y="300" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fW3JnOZTECXaUUF_HCQu-8" value="选择校正方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="60" height="20" as="geometry" />
+          <mxGeometry x="280" y="280" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fW3JnOZTECXaUUF_HCQu-9" value="选择校正方法" style="rounded=1;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
