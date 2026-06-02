@@ -16,6 +16,9 @@
         <mxCell id="OvfgQFfK8lWjrqRJabAD-4" value="地球物理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-5" value="地球物理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
