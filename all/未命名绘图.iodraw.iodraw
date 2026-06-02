@@ -17,10 +17,10 @@
           <mxGeometry x="290" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-5" value="地球化学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="510" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-6" value="遥感数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="730" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-9" value="区域地质图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="11.5" y="250" width="90" height="30" as="geometry" />
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-18" value="放射性测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-21" value="重力数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-22" value="磁法数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-23" value="电法/电磁法&lt;div&gt;数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-24" value="地震资料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-25" value="放射性测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="370" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
