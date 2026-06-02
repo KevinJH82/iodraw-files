@@ -34,8 +34,23 @@
         <mxCell id="OvfgQFfK8lWjrqRJabAD-12" value="地层柱状图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvfgQFfK8lWjrqRJabAD-13" value="区域地质图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-13" value="构造纲要图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-14" value="区域地质图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-15" value="矿区/矿点&lt;div&gt;地质图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-16" value="地质志/矿产志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-17" value="地层柱状图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-18" value="构造纲要图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
