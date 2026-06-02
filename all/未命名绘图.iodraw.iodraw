@@ -10,7 +10,7 @@
         <mxCell id="OvfgQFfK8lWjrqRJabAD-2" value="数据需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="110" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OvfgQFfK8lWjrqRJabAD-3" value="地形地貌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OvfgQFfK8lWjrqRJabAD-3" value="地质资料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="119" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-4" value="地球物理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
