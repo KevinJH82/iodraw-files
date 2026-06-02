@@ -11,31 +11,31 @@
           <mxGeometry x="369" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-3" value="地质资料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="59" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-4" value="地球物理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-5" value="地球化学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="520" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-6" value="遥感数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-9" value="区域地质图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="51.5" y="250" width="90" height="30" as="geometry" />
+          <mxGeometry x="11.5" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-10" value="矿区/矿点&lt;div&gt;地质图&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="146.5" y="250" width="90" height="30" as="geometry" />
+          <mxGeometry x="106.5" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-11" value="地质志/矿产志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="51.5" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="11.5" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-12" value="地层柱状图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="146.5" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="106.5" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-13" value="构造纲要图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="59" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-14" value="重力数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="250" width="90" height="30" as="geometry" />
