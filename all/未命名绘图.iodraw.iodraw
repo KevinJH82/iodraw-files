@@ -11,16 +11,16 @@
           <mxGeometry x="369" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-3" value="地质资料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="218" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-4" value="地球物理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="379" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-5" value="地球化学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="479" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OvfgQFfK8lWjrqRJabAD-6" value="遥感数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="90" height="30" as="geometry" />
+          <mxGeometry x="579" y="180" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
