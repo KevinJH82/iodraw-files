@@ -14,7 +14,7 @@
           <mxGeometry x="240" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-4" value="地质构造解译" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="360" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-5" value="蚀变分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="240" width="80" height="30" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-11" value="INSAR数据&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpibnLUdEq18CrDr50n4-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
