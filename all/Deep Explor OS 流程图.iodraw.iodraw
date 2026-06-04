@@ -16,6 +16,9 @@
         <mxCell id="mpibnLUdEq18CrDr50n4-4" value="地质构造解译" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mpibnLUdEq18CrDr50n4-5" value="地质构造解译" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
