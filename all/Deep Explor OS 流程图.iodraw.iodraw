@@ -52,6 +52,9 @@
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-1" value="地质勘探报告生成平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="240" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-2" value="分析区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="850" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
