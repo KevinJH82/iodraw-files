@@ -17,10 +17,10 @@
           <mxGeometry x="240" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-3" value="找矿前期资料收集" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="240" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-4" value="地质构造解译" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-5" value="蚀变分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="240" width="80" height="30" as="geometry" />
