@@ -58,6 +58,9 @@
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-3" value="Geo-Model&lt;div&gt;3D&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-4" value="Geo-Model&lt;div&gt;3D&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
