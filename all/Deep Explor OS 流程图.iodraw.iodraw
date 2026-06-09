@@ -46,34 +46,34 @@
         <mxCell id="mpibnLUdEq18CrDr50n4-16" value="分析区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="620" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-1" value="地质勘探报告生成平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-1" value="地质勘探报告生成平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-2" value="报告区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-2" value="报告区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="850" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-3" value="Geo-Model&lt;div&gt;3D（深部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-3" value="Geo-Model&lt;div&gt;3D（深部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="380" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-4" value="Geo-Geophys&lt;div&gt;（物探）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-4" value="Geo-Geophys&lt;div&gt;（物探）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="380" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-5" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（化探）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-5" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（化探）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="460" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（成矿预测）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（成矿预测）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="460" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（钻探）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（钻探）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="540" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（GeoAgent&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（GeoAgent&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="540" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（横切能力&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（横切能力&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="620" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-10" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="MLYRWD67Y3A3nzw_PY8d-10" value="ROI" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="230" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
