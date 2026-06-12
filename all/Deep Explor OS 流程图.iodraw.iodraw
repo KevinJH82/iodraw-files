@@ -20,7 +20,7 @@
           <mxGeometry x="390" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-5" value="蚀变分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="550" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-6" value="遥感数据&lt;div&gt;预处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="180" width="80" height="30" as="geometry" />
