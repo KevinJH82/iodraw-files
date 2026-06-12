@@ -34,9 +34,6 @@
         <mxCell id="mpibnLUdEq18CrDr50n4-9" value="频谱共振直接找矿系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="799" y="300" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mpibnLUdEq18CrDr50n4-11" value="INSAR数据&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="679" y="240" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-13" value="资源池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="459" y="110" width="60" height="30" as="geometry" />
         </mxCell>
@@ -78,6 +75,9 @@
         </mxCell>
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-1" value="需求分析系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-2" value="INSAR数据&lt;div&gt;分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
