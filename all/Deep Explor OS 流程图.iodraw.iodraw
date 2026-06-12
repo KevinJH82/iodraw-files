@@ -82,6 +82,9 @@
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-6" value="&lt;span style=&quot;color: rgb(0, 51, 102); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;一级分析区&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="750" y="110" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-7" value="二级分析区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1060" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
