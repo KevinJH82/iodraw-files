@@ -32,7 +32,7 @@
           <mxGeometry x="500" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-9" value="频谱共振直接找矿系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="799" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="530" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-13" value="资源池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="459" y="110" width="60" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="979" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-3" value="Geo-Model&lt;div&gt;3D（深部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="679" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="744" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-4" value="Geo-Geophys&lt;div&gt;（物探）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="799" y="360" width="80" height="30" as="geometry" />
