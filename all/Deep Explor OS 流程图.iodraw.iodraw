@@ -91,6 +91,9 @@
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-9" value="虚拟钻平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="240.5" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-10" value="虚拟钻平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
