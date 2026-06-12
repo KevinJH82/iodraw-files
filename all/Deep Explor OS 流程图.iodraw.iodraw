@@ -11,7 +11,7 @@
           <mxGeometry x="380" y="160" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="1009" y="159" width="170" height="281" as="geometry" />
+          <mxGeometry x="954" y="159" width="170" height="281" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-2" value="Geo-Downloader" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="80" height="30" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="800" y="240.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-8" value="Geo-Exploration&lt;div&gt;（遥感深部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1041.5" y="182" width="105" height="30" as="geometry" />
+          <mxGeometry x="986.5" y="182" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-13" value="资源池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="459" y="110" width="60" height="30" as="geometry" />
@@ -41,25 +41,25 @@
           <mxGeometry x="224" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-16" value="二级分析区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1049" y="110" width="80" height="30" as="geometry" />
+          <mxGeometry x="994" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-1" value="地质勘探报告生成平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1470" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="1469" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-2" value="报告区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1480" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="1479" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-3" value="Geo-Model&lt;div&gt;3D（深部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1054" y="340" width="80" height="30" as="geometry" />
+          <mxGeometry x="999" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-4" value="Geo-Geophys&lt;div&gt;（物探）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1054" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="999" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-5" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Geo-Geochem&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（化探）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1044" y="289.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="989" y="289.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Geo-Drill&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（钻孔推荐）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1054" y="390" width="80" height="30" as="geometry" />
+          <mxGeometry x="999" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;智能编排引擎&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;GeoAgent&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="219" y="175" width="80" height="40" as="geometry" />
@@ -74,19 +74,19 @@
           <mxGeometry x="750" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-7" value="三级分析区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="110" width="80" height="30" as="geometry" />
+          <mxGeometry x="1319" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-8" value="靶向超弱核磁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="1319" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-9" value="虚拟钻平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="240.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="1319" y="240.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-10" value="智能布钻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="300" width="80" height="30" as="geometry" />
+          <mxGeometry x="1319" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="159" width="160" height="191" as="geometry" />
+          <mxGeometry x="1279" y="159" width="160" height="191" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
