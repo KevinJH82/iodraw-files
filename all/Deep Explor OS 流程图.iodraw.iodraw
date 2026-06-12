@@ -8,7 +8,7 @@
           <mxGeometry x="349" y="170" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="649" y="170" width="270" height="340" as="geometry" />
+          <mxGeometry x="649" y="170" width="270" height="310" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-2" value="遥感卫星数据下载" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369" y="180" width="80" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="799" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（横切能力&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="679" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="679" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-10" value="ROI" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="230" width="100" height="50" as="geometry" />
