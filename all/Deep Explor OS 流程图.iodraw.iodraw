@@ -28,7 +28,7 @@
         <mxCell id="mpibnLUdEq18CrDr50n4-7" value="七个慢变量" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="799" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mpibnLUdEq18CrDr50n4-8" value="深部探测&lt;div&gt;（本征/红边）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mpibnLUdEq18CrDr50n4-8" value="Geo-Exploration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="799" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-9" value="频谱共振直接找矿系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
