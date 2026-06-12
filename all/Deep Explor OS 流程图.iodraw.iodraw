@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="660" y="161" width="250" height="190" as="geometry" />
+        </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="349" y="160" width="270" height="190" as="geometry" />
         </mxCell>
@@ -17,22 +20,22 @@
           <mxGeometry x="369" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-4" value="Geo-Stru" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="172" width="80" height="30" as="geometry" />
+          <mxGeometry x="680" y="171" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-5" value="Geo-Analyser" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="242" width="80" height="30" as="geometry" />
+          <mxGeometry x="680" y="241" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-6" value="Geo-Analyser&lt;div&gt;（Pre）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="811" y="172" width="80" height="30" as="geometry" />
+          <mxGeometry x="811" y="171" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-7" value="七个慢变量" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="312" width="80" height="30" as="geometry" />
+          <mxGeometry x="680" y="311" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-8" value="Geo-Exploration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="811" y="242" width="80" height="30" as="geometry" />
+          <mxGeometry x="811" y="241" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-9" value="频谱共振直接找矿系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="811" y="312" width="80" height="30" as="geometry" />
+          <mxGeometry x="811" y="311" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-13" value="资源池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="459" y="110" width="60" height="30" as="geometry" />
@@ -78,9 +81,6 @@
         </mxCell>
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-2" value="Geo-Insar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="299" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="660" y="162" width="250" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
