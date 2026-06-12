@@ -85,6 +85,9 @@
         <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-7" value="三级分析区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#003366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1320" y="110" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P-ygHNtZL0ZkUuWMEC9Q-8" value="Geo-Geophys&lt;div&gt;（物探）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
