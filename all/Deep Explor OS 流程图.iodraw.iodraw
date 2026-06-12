@@ -50,7 +50,7 @@
           <mxGeometry x="1480" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-3" value="Geo-Model&lt;div&gt;3D（深部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="1055" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-4" value="Geo-Geophys&lt;div&gt;（物探）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="180" width="80" height="30" as="geometry" />
@@ -59,13 +59,10 @@
           <mxGeometry x="990" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Geo-Drill&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（钻孔推荐）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="1055" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（GeoAgent&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="219" y="180" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MLYRWD67Y3A3nzw_PY8d-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（横切能力&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-10" value="ROI" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="170" width="100" height="50" as="geometry" />
