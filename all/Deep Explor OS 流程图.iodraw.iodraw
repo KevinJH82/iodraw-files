@@ -11,7 +11,7 @@
           <mxGeometry x="349" y="160" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="960" y="159" width="270" height="261" as="geometry" />
+          <mxGeometry x="960" y="159" width="270" height="361" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-2" value="Geo-Downloader" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369" y="180" width="80" height="30" as="geometry" />
