@@ -59,7 +59,7 @@
           <mxGeometry x="669" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-6" value="模式增强" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="744" y="530" width="80" height="30" as="geometry" />
+          <mxGeometry x="744" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-7" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Geo-Drill&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（钻孔推荐）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="679" y="300" width="80" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="219" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;（横切能力&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="679" y="420" width="80" height="30" as="geometry" />
+          <mxGeometry x="799" y="300" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLYRWD67Y3A3nzw_PY8d-10" value="ROI" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="230" width="100" height="50" as="geometry" />
