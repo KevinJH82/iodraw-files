@@ -14,10 +14,10 @@
           <mxGeometry x="960" y="159" width="270" height="231" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-2" value="Geo-Downloader" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="369" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-3" value="Data-Colle" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="369" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-4" value="Geo-Stru" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="180" width="80" height="30" as="geometry" />
