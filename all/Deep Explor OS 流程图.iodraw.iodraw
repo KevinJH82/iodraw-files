@@ -26,7 +26,7 @@
           <mxGeometry x="680" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-6" value="Geo-Analyser&lt;div&gt;（Pre）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="510" y="240.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpibnLUdEq18CrDr50n4-7" value="Geo-7slow" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="240.5" width="80" height="30" as="geometry" />
