@@ -70,8 +70,8 @@
         <mxCell id="Ma7Et4iVpssG0FckuISX-22" value="&lt;font size=&quot;1&quot;&gt;蚀变结果&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="227" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ma7Et4iVpssG0FckuISX-23" value="&lt;font size=&quot;1&quot;&gt;蚀变结果&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="237" width="50" height="30" as="geometry" />
+        <mxCell id="Ma7Et4iVpssG0FckuISX-23" value="&lt;font size=&quot;1&quot;&gt;地应力&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;梯度&lt;/font&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
