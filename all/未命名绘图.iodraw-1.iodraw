@@ -67,6 +67,9 @@
         <mxCell id="Ma7Et4iVpssG0FckuISX-21" value="&lt;font size=&quot;1&quot;&gt;矿床类型&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="153" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ma7Et4iVpssG0FckuISX-22" value="&lt;font size=&quot;1&quot;&gt;矿床类型&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="223" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
