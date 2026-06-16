@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ma7Et4iVpssG0FckuISX-1" value="ROI" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="10" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ma7Et4iVpssG0FckuISX-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;geo&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;downloader&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="50" height="70" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="Ma7Et4iVpssG0FckuISX-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地应力&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;梯度&lt;/font&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="263" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ma7Et4iVpssG0FckuISX-24" value="&lt;font size=&quot;1&quot;&gt;地应力&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;梯度&lt;/font&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ma7Et4iVpssG0FckuISX-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;地应力&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;梯度&lt;/font&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="345" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
