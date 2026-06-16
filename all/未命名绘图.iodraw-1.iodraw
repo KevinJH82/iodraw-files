@@ -76,6 +76,12 @@
         <mxCell id="Ma7Et4iVpssG0FckuISX-24" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;氧逸度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;突变&lt;/span&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="440" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ma7Et4iVpssG0FckuISX-25" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;流体&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;超压指数&lt;/span&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ma7Et4iVpssG0FckuISX-26" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;流体&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;超压指数&lt;/span&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
