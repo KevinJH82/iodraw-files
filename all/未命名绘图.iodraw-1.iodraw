@@ -82,6 +82,9 @@
         <mxCell id="Ma7Et4iVpssG0FckuISX-26" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;盖层&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;封闭性&lt;/span&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ma7Et4iVpssG0FckuISX-27" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;盖层&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;封闭性&lt;/span&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="590" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
