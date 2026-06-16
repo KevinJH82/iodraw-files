@@ -88,8 +88,8 @@
         <mxCell id="Ma7Et4iVpssG0FckuISX-28" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;化学势梯度&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="564.75" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ma7Et4iVpssG0FckuISX-29" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;化学势梯度&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="574.75" width="50" height="30" as="geometry" />
+        <mxCell id="Ma7Et4iVpssG0FckuISX-29" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;本征吸收&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="683" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
