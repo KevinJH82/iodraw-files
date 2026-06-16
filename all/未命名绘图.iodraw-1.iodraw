@@ -85,8 +85,8 @@
         <mxCell id="Ma7Et4iVpssG0FckuISX-27" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;温度梯度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;异常&lt;/span&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="520" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ma7Et4iVpssG0FckuISX-28" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;温度梯度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;异常&lt;/span&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="530" width="50" height="30" as="geometry" />
+        <mxCell id="Ma7Et4iVpssG0FckuISX-28" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;化学势梯度&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="569.5" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
