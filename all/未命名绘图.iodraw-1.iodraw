@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-QnGUtIMt3Q-UY9qhQNQ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="152" width="240" height="708" as="geometry" />
+        </mxCell>
         <mxCell id="Ma7Et4iVpssG0FckuISX-1" value="ROI" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="478.75" width="80" height="30" as="geometry" />
         </mxCell>
@@ -114,9 +117,6 @@
         </mxCell>
         <mxCell id="-QnGUtIMt3Q-UY9qhQNQ-7" value="&lt;font size=&quot;1&quot;&gt;地球化学参数&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="890" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-QnGUtIMt3Q-UY9qhQNQ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="152" width="240" height="708" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
