@@ -115,6 +115,9 @@
         <mxCell id="-QnGUtIMt3Q-UY9qhQNQ-7" value="&lt;font size=&quot;1&quot;&gt;地球化学参数&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="890" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-QnGUtIMt3Q-UY9qhQNQ-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
