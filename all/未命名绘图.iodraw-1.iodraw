@@ -100,6 +100,9 @@
         <mxCell id="-QnGUtIMt3Q-UY9qhQNQ-2" value="任务编排引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="60" height="538" as="geometry" />
         </mxCell>
+        <mxCell id="-QnGUtIMt3Q-UY9qhQNQ-3" value="任务编排引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="224.75" width="60" height="538" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
