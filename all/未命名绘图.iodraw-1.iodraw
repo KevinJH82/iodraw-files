@@ -22,7 +22,7 @@
         <mxCell id="fLGLvHxVV1eDUmcnI9-9-7" value="评论分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fLGLvHxVV1eDUmcnI9-9-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fLGLvHxVV1eDUmcnI9-9-8" value="形成方法论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
