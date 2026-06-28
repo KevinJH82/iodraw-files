@@ -16,6 +16,9 @@
         <mxCell id="fLGLvHxVV1eDUmcnI9-9-5" value="评论收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fLGLvHxVV1eDUmcnI9-9-6" value="内容分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
