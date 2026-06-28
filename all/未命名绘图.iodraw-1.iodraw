@@ -25,6 +25,9 @@
         <mxCell id="fLGLvHxVV1eDUmcnI9-9-8" value="形成方法论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="390" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fLGLvHxVV1eDUmcnI9-9-9" value="我的笔记" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
