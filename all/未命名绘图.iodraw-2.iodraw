@@ -22,7 +22,7 @@
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-6" value="1. 戒指：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 指夹：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 其他：&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="163" y="390" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xtKGI86Fr1h_5uSiQhHw-7" value="1. 数据清洗：&lt;div&gt;2.&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="xtKGI86Fr1h_5uSiQhHw-7" value="1. 噪声消除&lt;div&gt;2. 漂移消除&lt;/div&gt;&lt;div&gt;3. 伪迹去除&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="363" y="390" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
