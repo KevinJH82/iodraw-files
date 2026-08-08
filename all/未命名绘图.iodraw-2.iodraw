@@ -22,11 +22,14 @@
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-3" value="计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="320" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xtKGI86Fr1h_5uSiQhHw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtKGI86Fr1h_5uSiQhHw-4" target="xtKGI86Fr1h_5uSiQhHw-9">
+        <mxCell id="xtKGI86Fr1h_5uSiQhHw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xtKGI86Fr1h_5uSiQhHw-4" target="xtKGI86Fr1h_5uSiQhHw-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-4" value="后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xtKGI86Fr1h_5uSiQhHw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtKGI86Fr1h_5uSiQhHw-5" target="xtKGI86Fr1h_5uSiQhHw-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-5" value="结果评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="993" y="320" width="100" height="50" as="geometry" />
