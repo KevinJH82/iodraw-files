@@ -5,19 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-1" value="采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="81" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="193" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-2" value="清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="393" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-3" value="计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="593" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-4" value="后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="793" y="320" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-5" value="结果输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="881" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="993" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xtKGI86Fr1h_5uSiQhHw-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
