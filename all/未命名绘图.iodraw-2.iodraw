@@ -49,7 +49,7 @@
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-6" value="&lt;h1&gt;①&lt;/h1&gt;1. 戒指：&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 指夹：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 其他：&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="163" y="390" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xtKGI86Fr1h_5uSiQhHw-7" value="1. 噪声消除&lt;div&gt;2. 漂移消除&lt;/div&gt;&lt;div&gt;3. 伪迹去除&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="xtKGI86Fr1h_5uSiQhHw-7" value="&lt;h1&gt;②&lt;/h1&gt;1. 噪声消除&lt;div&gt;2. 漂移消除&lt;/div&gt;&lt;div&gt;3. 伪迹去除&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="363" y="390" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-8" value="A. 均值模型（现有）&lt;div&gt;B. 优化均值模型（AB → ABBA）&lt;/div&gt;&lt;div&gt;C. rMSSD模型&lt;/div&gt;&lt;div&gt;D. 幅值模型&lt;/div&gt;&lt;div&gt;E. 单拍面积模型&lt;/div&gt;&lt;div&gt;F. 其他模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
