@@ -16,6 +16,9 @@
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-2" value="清洗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="393" y="320" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xtKGI86Fr1h_5uSiQhHw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="xtKGI86Fr1h_5uSiQhHw-3" target="xtKGI86Fr1h_5uSiQhHw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xtKGI86Fr1h_5uSiQhHw-3" value="计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="320" width="100" height="50" as="geometry" />
         </mxCell>
