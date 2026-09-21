@@ -68,7 +68,7 @@
           <mxGeometry x="266" y="47" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwfNJYocqexvNmfBtYsC-15" value="TC23" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="120" width="50" height="30" as="geometry" />
+          <mxGeometry x="410" y="194" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mwfNJYocqexvNmfBtYsC-16" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="479" y="294" width="50" height="30" as="geometry" />
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mwfNJYocqexvNmfBtYsC-24" value="4.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="40" height="30" as="geometry" />
+          <mxGeometry x="110" y="205" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
