@@ -106,7 +106,7 @@
         <mxCell id="mwfNJYocqexvNmfBtYsC-24" value="4.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="116" y="210" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mwfNJYocqexvNmfBtYsC-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mwfNJYocqexvNmfBtYsC-25" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="225" y="175" as="sourcePoint" />
             <mxPoint x="250" y="150" as="targetPoint" />
