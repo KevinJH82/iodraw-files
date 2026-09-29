@@ -102,14 +102,14 @@
         <mxCell id="im3zISwZZ9v05kTiJBwE-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="195" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="im3zISwZZ9v05kTiJBwE-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="im3zISwZZ9v05kTiJBwE-24" value="基准图" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="im3zISwZZ9v05kTiJBwE-25" value="正" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="275" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="im3zISwZZ9v05kTiJBwE-26" value="反" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="285" width="40" height="30" as="geometry" />
+          <mxGeometry x="160" y="245" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
