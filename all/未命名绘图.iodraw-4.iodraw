@@ -40,6 +40,15 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-12" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="596" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WLNma-zRNf0zf0Unii4v-13" value="检出限分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WLNma-zRNf0zf0Unii4v-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. δ倍数&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 标准化偏离&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. 最小两轮相关&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="576" width="97" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="606" width="80" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
