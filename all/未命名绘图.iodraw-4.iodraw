@@ -1,88 +1,88 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="pBZsaQkIR2_loFGPvYDc">
-    <mxGraphModel dx="1080" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WLNma-zRNf0zf0Unii4v-1" value="&lt;font size=&quot;1&quot;&gt;原始数据1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-1" value="&lt;font size=&quot;1&quot;&gt;原始数据1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="340" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-2" value="&lt;font size=&quot;1&quot;&gt;原始数据2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-2" value="&lt;font size=&quot;1&quot;&gt;原始数据2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="380" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-3" value="&lt;font size=&quot;1&quot;&gt;原始数据3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-3" value="&lt;font size=&quot;1&quot;&gt;原始数据3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="420" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 趋势&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. 相似性&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 偏差&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 夹角检出&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 趋势&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. 相似性&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 偏差&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 夹角检出&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="303" y="325" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-5" value="基础分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-5" value="基础分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="316.5" y="295" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-6" value="结果R1" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-6" value="结果R1" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="355" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-7" value="&lt;div style=&quot;&quot;&gt;切比雪夫&lt;/div&gt;&lt;div style=&quot;&quot;&gt;邻域容差分析&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-7" value="&lt;div style=&quot;&quot;&gt;切比雪夫&lt;/div&gt;&lt;div style=&quot;&quot;&gt;邻域容差分析&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="810" y="325" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-8" value="对比分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-8" value="对比分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="823.5" y="295" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-9" value="结果R2" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-9" value="结果R2" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="363" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-10" value="检出限分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-10" value="检出限分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="818.5" y="512" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. δ倍数&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 标准化偏离&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. 最小两轮相关&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. δ倍数&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 标准化偏离&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. 最小两轮相关&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="810" y="542" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-12" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-12" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="572" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-13" value="对照分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210.5" y="426" width="70" height="30" as="geometry" />
+        <mxCell id="WLNma-zRNf0zf0Unii4v-13" value="对照分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1393.5" y="425" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 蚀变情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. 构造情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 地质情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 开采情况&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1197" y="456" width="97" height="130" as="geometry" />
+        <mxCell id="WLNma-zRNf0zf0Unii4v-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 蚀变情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. 构造情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 地质情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 开采情况&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="455" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R4" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360.5" y="486" width="80" height="70" as="geometry" />
+        <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R4" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1543.5" y="485" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLNma-zRNf0zf0Unii4v-4" target="WLNma-zRNf0zf0Unii4v-6">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WLNma-zRNf0zf0Unii4v-4" target="WLNma-zRNf0zf0Unii4v-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="520" as="sourcePoint" />
             <mxPoint x="660" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLNma-zRNf0zf0Unii4v-7" target="WLNma-zRNf0zf0Unii4v-9">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WLNma-zRNf0zf0Unii4v-7" target="WLNma-zRNf0zf0Unii4v-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="470" as="sourcePoint" />
             <mxPoint x="1030" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLNma-zRNf0zf0Unii4v-11" target="WLNma-zRNf0zf0Unii4v-12">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WLNma-zRNf0zf0Unii4v-11" target="WLNma-zRNf0zf0Unii4v-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="917" y="407" as="sourcePoint" />
             <mxPoint x="984" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLNma-zRNf0zf0Unii4v-14" target="WLNma-zRNf0zf0Unii4v-15">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WLNma-zRNf0zf0Unii4v-14" target="WLNma-zRNf0zf0Unii4v-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1340" y="606.47" as="sourcePoint" />
-            <mxPoint x="1407" y="606.47" as="targetPoint" />
+            <mxPoint x="1523" y="605.47" as="sourcePoint" />
+            <mxPoint x="1590" y="605.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=30;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=30;" parent="1" vertex="1">
           <mxGeometry x="1080" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-30;" parent="1" vertex="1">
           <mxGeometry x="1080" y="572" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=20;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=20;" parent="1" vertex="1">
           <mxGeometry x="500" y="532" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
