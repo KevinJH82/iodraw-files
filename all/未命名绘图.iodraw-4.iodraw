@@ -37,7 +37,7 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. δ倍数&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 标准化偏离&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. 最小两轮相关&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="810" y="542" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-12" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-12" value="结果R4" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="572" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-13" value="对照分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 蚀变情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. 构造情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 地质情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 开采情况&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="1380" y="455" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R4" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R5" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1543.5" y="485" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
@@ -87,6 +87,12 @@
         </mxCell>
         <mxCell id="oSZuUo9UE-CgwW1dcQh6-1" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1161" y="410" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oSZuUo9UE-CgwW1dcQh6-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="917" y="407" as="sourcePoint" />
+            <mxPoint x="984" y="408" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
