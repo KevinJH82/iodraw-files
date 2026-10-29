@@ -43,7 +43,7 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-13" value="对照分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="623.5" y="520" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. δ倍数&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 内部阈值&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 标准化偏离&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. 最小两轮相关&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 蚀变情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. 构造情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 地质情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 开采情况&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="566" width="97" height="130" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
