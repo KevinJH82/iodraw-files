@@ -85,17 +85,17 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="598.47" y="556.65" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oSZuUo9UE-CgwW1dcQh6-1" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oSZuUo9UE-CgwW1dcQh6-1" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="390" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oSZuUo9UE-CgwW1dcQh6-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLNma-zRNf0zf0Unii4v-9" target="oSZuUo9UE-CgwW1dcQh6-1">
+        <mxCell id="oSZuUo9UE-CgwW1dcQh6-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WLNma-zRNf0zf0Unii4v-9" target="oSZuUo9UE-CgwW1dcQh6-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="400" as="sourcePoint" />
             <mxPoint x="1157" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oSZuUo9UE-CgwW1dcQh6-3" value="1. 多分数据结果独立分析&lt;div style=&quot;line-height: 180%;&quot;&gt;2. 趋势∩偏差∩夹角检出&lt;/div&gt;&lt;div style=&quot;line-height: 180%;&quot;&gt;3. 多次独立分析结果取并集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;align=left;verticalAlign=top;spacingTop=1;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="433" width="160" height="97" as="geometry" />
+        <mxCell id="oSZuUo9UE-CgwW1dcQh6-3" value="1. 多分数据结果独立分析&lt;div style=&quot;line-height: 180%;&quot;&gt;2. 趋势∩偏差∩夹角检出&lt;/div&gt;&lt;div style=&quot;line-height: 180%;&quot;&gt;3. 多次独立分析结果取并集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;align=left;verticalAlign=top;spacingTop=1;spacing=2;" parent="1" vertex="1">
+          <mxGeometry x="430" y="433" width="160" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
