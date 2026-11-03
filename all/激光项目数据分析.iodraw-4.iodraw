@@ -154,6 +154,9 @@
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="375" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-23" value="结果R2" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="360" width="80" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
