@@ -112,8 +112,8 @@
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-6" value="基准图曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="630" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-7" value="基准图曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="640" width="80" height="30" as="geometry" />
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-7" value="正断言曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="556.65" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
