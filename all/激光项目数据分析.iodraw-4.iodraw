@@ -133,8 +133,8 @@
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-13" value="基准图曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="xUp9zTWCnG62Cg-ddB6p-14">
           <mxGeometry x="130.99884722999434" y="58.64999999999998" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="598" width="50" height="30" as="geometry" />
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-15" value="A,B,C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xUp9zTWCnG62Cg-ddB6p-14">
+          <mxGeometry x="17" y="5" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
