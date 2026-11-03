@@ -154,7 +154,7 @@
             <mxPoint x="1869" y="343.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QjMnkpvTbsqtlKGyO4jS-1" value="&lt;div style=&quot;&quot;&gt;多设备独立分析&lt;/div&gt;&lt;div style=&quot;&quot;&gt;结果取并集&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+        <mxCell id="QjMnkpvTbsqtlKGyO4jS-1" value="&lt;div style=&quot;&quot;&gt;单设备多次测量结果独立分析并取&lt;span style=&quot;background-color: initial;&quot;&gt;并集&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="366" y="370" width="97" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-2" value="纵向分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -164,7 +164,7 @@
           <mxGeometry x="260" y="419.5" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-5" value="结果R2" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="404.5" width="80" height="70" as="geometry" />
+          <mxGeometry x="620" y="402.5" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QjMnkpvTbsqtlKGyO4jS-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
