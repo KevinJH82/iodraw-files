@@ -17,7 +17,7 @@
           <mxGeometry x="-87" y="370" width="97" height="130" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-5" value="&lt;div&gt;Step2&lt;/div&gt;基础分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-73.5" y="335" width="70" height="40" as="geometry" />
+          <mxGeometry x="-73.5" y="333" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-6" value="结果R1" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="404" width="80" height="70" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="-370" y="373" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-2" value="&lt;div&gt;Step1&lt;/div&gt;数据处理与计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="335" width="110" height="40" as="geometry" />
+          <mxGeometry x="-370" y="334" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="-220" y="424.5" width="90" height="37" as="geometry" />
