@@ -113,7 +113,7 @@
           <mxGeometry y="4.134565901076959" width="209.81454302868568" height="83.86543409892305" as="geometry" />
         </mxCell>
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-6" value="基准图曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="xUp9zTWCnG62Cg-ddB6p-9">
-          <mxGeometry x="142.77280358142136" y="61.515295911560074" width="67.15165081141578" height="25.159630229676914" as="geometry" />
+          <mxGeometry x="142.77280358142136" y="79.51529591156007" width="67.15165081141578" height="25.159630229676914" as="geometry" />
         </mxCell>
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-7" value="正断言一阶积分曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="xUp9zTWCnG62Cg-ddB6p-9">
           <mxGeometry x="103.37884722999436" y="-2" width="130" height="30" as="geometry" />
