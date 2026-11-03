@@ -187,8 +187,8 @@
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-11" value="启动测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QjMnkpvTbsqtlKGyO4jS-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="200" width="30" height="80" as="geometry" />
+        <mxCell id="QjMnkpvTbsqtlKGyO4jS-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.78;dx=47.73;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="200" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
