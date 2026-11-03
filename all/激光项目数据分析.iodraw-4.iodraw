@@ -148,7 +148,7 @@
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-20" value="&lt;div style=&quot;&quot;&gt;切比雪夫&lt;/div&gt;&lt;div style=&quot;&quot;&gt;邻域容差分析&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="790" y="328" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-21" value="对比分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-21" value="交叉分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="803.5" y="298" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
