@@ -58,9 +58,6 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=30;" parent="1" vertex="1">
           <mxGeometry x="1945.58" y="464.16" width="106.65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oSZuUo9UE-CgwW1dcQh6-1" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="403" width="80" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="oSZuUo9UE-CgwW1dcQh6-3" value="1. 多分数据结果独立分析&lt;div style=&quot;line-height: 180%;&quot;&gt;2. 趋势∩相似性∩偏差∩夹角检出&lt;/div&gt;&lt;div style=&quot;line-height: 180%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. 多次独立分析结果取并集&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;align=left;verticalAlign=top;spacingTop=1;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="499" y="478" width="190" height="77" as="geometry" />
         </mxCell>
