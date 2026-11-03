@@ -160,6 +160,9 @@
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-2" value="纵向分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="344" y="340" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QjMnkpvTbsqtlKGyO4jS-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="419.5" width="90" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
