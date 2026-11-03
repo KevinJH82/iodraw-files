@@ -154,7 +154,7 @@
             <mxPoint x="1869" y="343.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QjMnkpvTbsqtlKGyO4jS-1" value="&lt;div style=&quot;&quot;&gt;单设备多次测量结果独立分析并取&lt;span style=&quot;background-color: initial;&quot;&gt;并集&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+        <mxCell id="QjMnkpvTbsqtlKGyO4jS-1" value="&lt;div style=&quot;&quot;&gt;单设备多次测量结果相关性分析&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
           <mxGeometry x="366" y="370" width="97" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-2" value="纵向分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
