@@ -155,10 +155,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-1" value="&lt;div style=&quot;&quot;&gt;多设备独立分析&lt;/div&gt;&lt;div style=&quot;&quot;&gt;结果取并集&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="97" height="130" as="geometry" />
+          <mxGeometry x="366" y="370" width="97" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-2" value="纵向分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="344" y="340" width="70" height="30" as="geometry" />
+          <mxGeometry x="380" y="340" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="419.5" width="90" height="37" as="geometry" />
