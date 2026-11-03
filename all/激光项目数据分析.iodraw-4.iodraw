@@ -29,7 +29,7 @@
           <mxGeometry x="1269.03" y="313" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-9" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1419.03" y="381" width="80" height="70" as="geometry" />
+          <mxGeometry x="1440" y="368" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-13" value="对照分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1839.0299999999997" y="443" width="70" height="30" as="geometry" />
