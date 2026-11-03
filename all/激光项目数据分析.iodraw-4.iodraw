@@ -121,7 +121,7 @@
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-8" value="反断言曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="xUp9zTWCnG62Cg-ddB6p-9">
           <mxGeometry x="170.18" y="43.35000000000002" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUp9zTWCnG62Cg-ddB6p-1" target="xUp9zTWCnG62Cg-ddB6p-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="540" as="sourcePoint" />
             <mxPoint x="410" y="490" as="targetPoint" />
