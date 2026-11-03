@@ -142,7 +142,7 @@
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-32" value="以对照结果为标准，完成小幅度阈值（检出限）调整，并确定最终结果。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;align=left;verticalAlign=top;spacingTop=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="2263.5" y="479" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-33" value="加密测量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="355" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
