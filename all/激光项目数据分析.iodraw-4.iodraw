@@ -98,10 +98,10 @@
           <mxGeometry x="430" y="433" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-1" value="1. 通道差&lt;div&gt;2. 逐点差&lt;/div&gt;&lt;div&gt;3. 正负断言差分&lt;/div&gt;&lt;div&gt;4. 一阶积分曲线&lt;/div&gt;&lt;div&gt;5. 二阶积分曲线&lt;/div&gt;&lt;div&gt;6. 线性回归&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="100" y="330" width="110" height="130" as="geometry" />
+          <mxGeometry x="90" y="323" width="110" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-2" value="计算与整理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="295" width="80" height="30" as="geometry" />
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-2" value="数据处理与计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="295" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
