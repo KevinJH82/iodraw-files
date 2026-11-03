@@ -187,14 +187,8 @@
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-11" value="启动测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QjMnkpvTbsqtlKGyO4jS-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="320" as="sourcePoint" />
-            <mxPoint x="1120" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1060" y="240" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="QjMnkpvTbsqtlKGyO4jS-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="200" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
