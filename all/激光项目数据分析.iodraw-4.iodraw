@@ -154,6 +154,9 @@
             <mxPoint x="1766" y="314.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QjMnkpvTbsqtlKGyO4jS-1" value="&lt;div style=&quot;&quot;&gt;多设备独立分析&lt;/div&gt;&lt;div style=&quot;&quot;&gt;结果取并集&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="97" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
