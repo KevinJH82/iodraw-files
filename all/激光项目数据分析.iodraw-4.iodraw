@@ -145,7 +145,7 @@
             <mxPoint x="1612.5" y="358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-32" value="1.加密测量任务设计&lt;div&gt;2.机密测量任务结果&lt;/div&gt;&lt;div&gt;3. 机密测量任务分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;align=left;verticalAlign=top;spacingTop=1;spacing=2;" vertex="1" parent="1">
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-32" value="以对照结果为标准，完成小幅度阈值（检出限）调整，并确定最终结果。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;align=left;verticalAlign=top;spacingTop=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="2005" y="480" width="125" height="62" as="geometry" />
         </mxCell>
       </root>
