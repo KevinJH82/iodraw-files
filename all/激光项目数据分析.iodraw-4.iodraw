@@ -176,7 +176,7 @@
           <mxGeometry x="460" y="861" width="190" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-8" value="获取KML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-98" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-9" value="调整测试参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="120" height="60" as="geometry" />
