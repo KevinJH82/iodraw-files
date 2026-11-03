@@ -61,8 +61,8 @@
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-1" value="1. 通道差&lt;div&gt;2. 逐点差&lt;/div&gt;&lt;div&gt;3. 正负断言差分&lt;/div&gt;&lt;div&gt;4. 一阶积分曲线&lt;/div&gt;&lt;div&gt;5. 二阶积分曲线&lt;/div&gt;&lt;div&gt;6. 线性回归&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-370" y="373" width="110" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xUp9zTWCnG62Cg-ddB6p-2" value="数据处理与计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="340" width="110" height="30" as="geometry" />
+        <mxCell id="xUp9zTWCnG62Cg-ddB6p-2" value="&lt;div&gt;Step1&lt;/div&gt;数据处理与计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="335" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xUp9zTWCnG62Cg-ddB6p-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="-220" y="424.5" width="90" height="37" as="geometry" />
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-7" value="单设备多次测量结果不同维度取交集后再取并集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;align=left;verticalAlign=top;spacingTop=1;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="522.5" width="190" height="27" as="geometry" />
+          <mxGeometry x="570" y="522.5" width="190" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
