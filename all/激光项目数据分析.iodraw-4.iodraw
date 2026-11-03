@@ -28,7 +28,7 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-8" value="&lt;div&gt;Step5&lt;/div&gt;对比分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1341.03" y="332.5" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-9" value="结果R3" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-9" value="结果R4" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1831.5" y="403.5" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-13" value="&lt;div&gt;Step6&lt;/div&gt;对照分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="WLNma-zRNf0zf0Unii4v-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;1. 蚀变情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. 构造情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. 地质情况&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. 开采情况&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="2061.4999999999995" y="373.5" width="97" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R4" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WLNma-zRNf0zf0Unii4v-15" value="结果R5" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2341.4999999999995" y="403.5" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WLNma-zRNf0zf0Unii4v-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
