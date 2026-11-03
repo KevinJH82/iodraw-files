@@ -184,7 +184,7 @@
         <mxCell id="QjMnkpvTbsqtlKGyO4jS-10" value="确定测量方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QjMnkpvTbsqtlKGyO4jS-11" value="启动测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QjMnkpvTbsqtlKGyO4jS-11" value="启动测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
