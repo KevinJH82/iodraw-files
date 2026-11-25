@@ -185,6 +185,17 @@
             <mxPoint x="-9" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FH29rF4kymO08fSpDFB4-42" value="" style="endArrow=async;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="889.9999999999999" as="sourcePoint" />
+            <mxPoint x="524" y="889.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FH29rF4kymO08fSpDFB4-43" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;外部数据/指标&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#004C99;" vertex="1" connectable="0" parent="FH29rF4kymO08fSpDFB4-42">
+          <mxGeometry x="0.0414" y="-1" relative="1" as="geometry">
+            <mxPoint x="-4" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
