@@ -21,7 +21,7 @@
             <mxPoint x="6" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FH29rF4kymO08fSpDFB4-3" value="激光采集设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FH29rF4kymO08fSpDFB4-3" value="激光设备测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FH29rF4kymO08fSpDFB4-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.3061224489795915;endSize=3.0122448979591834;endWidth=6.405664306538942;entryX=0.479;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
