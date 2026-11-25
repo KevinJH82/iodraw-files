@@ -17,14 +17,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FH29rF4kymO08fSpDFB4-3" value="激光采集设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="400" width="120" height="50" as="geometry" />
+          <mxGeometry x="360" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FH29rF4kymO08fSpDFB4-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=5.3061224489795915;endSize=3.0122448979591834;endWidth=6.405664306538942;entryX=0.479;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="493" y="426" as="sourcePoint" />
-            <mxPoint x="533" y="528.2" as="targetPoint" />
+            <mxPoint x="480" y="426" as="sourcePoint" />
+            <mxPoint x="520" y="528.2" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="533" y="426.2" />
+              <mxPoint x="520" y="426.2" />
             </Array>
           </mxGeometry>
         </mxCell>
