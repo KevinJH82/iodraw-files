@@ -147,8 +147,8 @@
         <mxCell id="FH29rF4kymO08fSpDFB4-30" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;1. 上传待测区域KML文件&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;2. 设置采集参数&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;3. 设置保存位置&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;4. 确认转换方案，生成并存档&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
           <mxGeometry x="58" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FH29rF4kymO08fSpDFB4-31" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 转换后的编号网格PNG&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;2. 包含全部信息的”全部结果.zip“文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="110" height="110" as="geometry" />
+        <mxCell id="FH29rF4kymO08fSpDFB4-31" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 转换后的编号网格PNG目录&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;2. 包含全部信息的”全部结果.zip“文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
