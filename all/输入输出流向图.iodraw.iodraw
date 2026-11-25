@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="FH29rF4kymO08fSpDFB4-22" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;外部数据/指标&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FH29rF4kymO08fSpDFB4-15">
           <mxGeometry x="-0.0199" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FH29rF4kymO08fSpDFB4-16" value="" style="endArrow=async;html=1;rounded=0;endFill=1;" edge="1" parent="1">
@@ -105,7 +105,7 @@
         </mxCell>
         <mxCell id="FH29rF4kymO08fSpDFB4-23" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;外部数据/指标&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FH29rF4kymO08fSpDFB4-16">
           <mxGeometry x="0.1487" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FH29rF4kymO08fSpDFB4-17" value="" style="endArrow=async;html=1;rounded=0;endFill=1;" edge="1" parent="1">
