@@ -16,8 +16,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FH29rF4kymO08fSpDFB4-3" value="KML网格转换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="400" width="120" height="50" as="geometry" />
+        <mxCell id="FH29rF4kymO08fSpDFB4-3" value="激光采集设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="400" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
