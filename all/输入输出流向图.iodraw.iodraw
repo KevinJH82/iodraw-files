@@ -156,8 +156,8 @@
         <mxCell id="FH29rF4kymO08fSpDFB4-34" value="&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 设备通道1采集的数据&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;2. 设备通道2 采集的数据&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
           <mxGeometry x="414" y="422.5" width="97" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="FH29rF4kymO08fSpDFB4-35" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 测量基准图&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;2. 待测图像的正、反文本任务（包括基准图及全部待测图）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
-          <mxGeometry x="166" y="440" width="80" height="80" as="geometry" />
+        <mxCell id="FH29rF4kymO08fSpDFB4-35" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 全部结果.zip 文件，来自KML网格转换输出&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
+          <mxGeometry x="250" y="560" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
