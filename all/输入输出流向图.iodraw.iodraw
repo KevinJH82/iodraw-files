@@ -28,7 +28,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FH29rF4kymO08fSpDFB4-5" value="激光采集设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FH29rF4kymO08fSpDFB4-5" value="TC第一级分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="529" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
