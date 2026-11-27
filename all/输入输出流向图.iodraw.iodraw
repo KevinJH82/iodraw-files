@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9_ipxoytPwSXckyop7K5-8" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 全部结果.zip 文件，来自KML网格转换输出&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
-          <mxGeometry x="260" y="570" width="80" height="80" as="geometry" />
+          <mxGeometry x="561" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
