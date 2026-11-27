@@ -256,6 +256,12 @@
         <mxCell id="9_ipxoytPwSXckyop7K5-9" value="&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 匹配度（VS蚀变结果，百分比）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;2. 覆盖率（VS蚀变结果，百分比）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;3. 最终选定的异常格子.kml 文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
           <mxGeometry x="850" y="366.5" width="97" height="97" as="geometry" />
         </mxCell>
+        <mxCell id="9_ipxoytPwSXckyop7K5-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="540" as="sourcePoint" />
+            <mxPoint x="1070" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
