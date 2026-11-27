@@ -254,7 +254,7 @@
           <mxGeometry x="561" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9_ipxoytPwSXckyop7K5-9" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;1. 噪声异常网格分布.KML/.KMZ文件&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;dashPattern=1 1;align=left;strokeColor=#0f2338;fontColor=#194C80;" vertex="1" parent="1">
-          <mxGeometry x="850" y="366.5" width="97" height="97" as="geometry" />
+          <mxGeometry x="900" y="488" width="126" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
