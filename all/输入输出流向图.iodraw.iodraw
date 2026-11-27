@@ -222,10 +222,13 @@
             <mxPoint x="-4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9_ipxoytPwSXckyop7K5-4" value="" style="shape=link;endArrow=none;html=1;rounded=0;endWidth=6.405664306538942;endFill=0;startArrow=none;startFill=0;strokeWidth=1;strokeColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="9_ipxoytPwSXckyop7K5-4" value="" style="shape=link;endArrow=none;html=1;rounded=0;endWidth=6.405664306538942;endFill=0;startArrow=none;startFill=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960.5" y="214.73999999999978" as="sourcePoint" />
             <mxPoint x="1099" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1099" y="215" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9_ipxoytPwSXckyop7K5-5" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;输出&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#CC6600;" vertex="1" connectable="0" parent="9_ipxoytPwSXckyop7K5-4">
